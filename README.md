@@ -12,9 +12,3 @@ This project is a simple implementation of factorial calculation in C++. The alg
 
 - **Language:** C++
 - **Reference:** [GeeksforGeeks - Factorial Formula](https://www.geeksforgeeks.org/factorial-formula/)
-
-## 🛠 Installation and Usage
-
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/your-username/your-project.git
